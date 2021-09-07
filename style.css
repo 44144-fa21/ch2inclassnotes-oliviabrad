@@ -1,0 +1,35 @@
+  body {background-color: #e7e6fa;
+        color: #191878;
+        font-family: Ariel, Verdana, sans-serif;
+      }
+  h1 	{background-color: #191878;
+        color: #e6e6fa;
+        font-family: Georgia, "Times New Roman", serif;
+        line-height: 200%;
+        text-shadow: 3px 3px 3px #ccccbc;
+      }
+  h2	{background-color: #afaed4;
+      color: #191878;
+      font-family: Georgia. "Times New Roman", serif;
+      text-align: center;
+  }
+  p		{font-size: .90em;
+        text-indent: 3em;
+      }
+  ul	{font-weight: bold;
+  }
+  nav	{font-weight: bold;
+      font-size: 1.25em;
+    }
+  Footer {color: #334333;
+          font-size: .75em;
+          font-style: italic;
+        }
+
+        #red {color: #ff5677}
+        #wrapper {margin-left: auto;
+                  margin-right: auto;
+                  width: 80%;
+                }
+        .feature{color: #c70010}
+      nav	a {color: #effeff}
